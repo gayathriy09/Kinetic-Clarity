@@ -1,0 +1,12 @@
+{
+  "name": "Kinetic Clarity - AI Interview Cockpit",
+  "description": "Executive-grade AI mock interview platform with real-time speech analytics, teleprompter pacing monitors, instant STAR coaching, and analytics reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
